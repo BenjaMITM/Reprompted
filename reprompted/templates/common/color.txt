@@ -1,0 +1,500 @@
+[choose]
+aquamariine
+auburn
+azure
+blood red
+crimson
+dark red
+scarlet
+maroon
+red
+tuscan red
+amaranth
+bublegum pink
+deep pink
+hot pink
+magenta
+pink
+process magenta
+raspberry
+rose
+salmon
+apricot
+bright orange
+coral
+hyperbolic orange
+india saffron
+mango
+orange
+orange red
+peach
+persimmon
+vermillion
+xanthous
+brown
+burlywood
+chestnut
+chocolate
+coffee
+copper
+mahogany
+ochre
+pantone 448 c
+pullman brown
+russet
+saddle brown
+sepia
+taupe
+amber
+buff
+cream
+gold 
+khaki
+lemon yellow
+light yellow
+macaroni and cheese
+marigold yellow
+mustard
+process yellow
+saffron
+yellow
+aquamarine
+chartreuse
+dark green
+erin
+forest green
+green
+jade 
+jade green
+lime
+mint
+office green
+olive
+persian green
+spring green
+teal
+viridian
+xanadu
+zomp
+abyssal blue 
+abyssopelagic water
+alone in the dark (Blue)
+alucard's night (blue)
+aqua
+baby blue
+blue 
+blue gray 
+cerulean 
+cobalt blue
+cyan
+dark blue 
+dark royalty
+deep blue 
+deep sky blue
+endless galaxy
+light blue 
+light sky blue 
+midnight blue 
+navy 
+process cyan 
+prussian blue
+oblivion (blue)
+robin egg blue
+savoy blue
+sapphire
+scotch blue
+sky blue
+stratos
+stygian blue
+turquoise
+YinMn Blue
+zaffre
+african violet
+amethyst
+french violet
+hadopelagic water 
+illicit darkness 
+indigo
+lavender
+lavender magenta
+lavender mist
+lilac
+nightmargin purple
+obsidian
+obsidian shard
+orchid
+periwinkle
+purple
+veronica
+violet
+wisteria
+armor wash
+benthic black
+black
+black hole
+dark matter
+eight ball
+ninja
+registration black
+vantablack
+wet crows wing
+dark gray
+dull gray
+elephant gray
+gray
+light gray
+silver
+slate gray
+azure mist
+cosmic latte
+ivory
+platinum
+snow
+white
+absolute zero
+acid green
+aero
+air superiority blue
+alice blue
+alizarin
+alloy orange
+almond
+amaranth deep purple
+amaranth pink
+amaranth purple
+amazon
+android green
+antique brass
+antique bronze
+antique fuscia
+antique ruby
+antique white
+apricot
+arctic lime
+artichoke green
+arylide yellow
+ash gray
+atomic tangerine
+aureolin
+baby blue eyes
+baby pink
+baby powder
+Baker-Miller pink
+banana mania
+barbie pink
+barn red
+battleship grey
+beau blue
+beaver
+beige
+b'dazzled blue
+big dip o' ruby
+bisque
+bistre
+bistre brown
+bitter lemon
+black bean
+black coral
+black olive
+black shadows
+blanched almond
+blast-off bronze
+bleu de france
+blizzard blue
+blue munseell
+Blue pantone
+pantone
+Blue pigment
+Blue bell
+Blue-grey
+blue sapphire
+blue-violet
+bluetiful
+blush
+bole
+bronze
+blue yonder
+brick Render
+bright lilac
+bright yellow
+british racing green
+brown sugar
+bud green
+burgundy
+burnished brown
+burnt orange
+burnt sienna
+burnt umber
+byzantine
+byzantium
+cadet blue
+cadet grey
+cadmium green
+cadmium orange
+cafe au lait
+cafe noir
+cambridge blue
+camel
+cameo pink
+canary
+canary yellow
+candy pink
+carmine
+caribbean green
+cardinal
+carrot orange
+catawba
+celadon
+cedar chestnut
+carnelian
+carnation pink
+carmine (M&P)
+celeste
+cerise
+cerulean frost
+champagne
+charcoal
+charm pink
+chartreuse
+cherry blossom pink
+chili red
+china pink
+chinese yellow
+chocolate
+cinereous
+cinnabar
+cinnamon satin
+citrine
+citron
+claret
+coffee
+columbia blue
+congo pink
+cool grey
+copper
+coquelicot
+coral
+cordovan
+corn 
+cornflower blue 
+cornsilk
+cosmic cobalt
+cosmic latte
+coyote brown
+cotton candy
+cream
+cultured pearl
+cyber grape
+cyber yellow
+cyclamen
+dandelion
+dark byzantium
+dark electric blue
+dark goldenrod
+goldenrod
+dark khaki
+khaki
+dark lava
+lava
+dark liver
+liver
+dark magenta
+dark orange
+dark orchid
+dark salmon
+salmon
+dark sea green
+sea green
+dark sienna
+siennna
+dark spring green
+deep saffron
+deep space sparkle
+deep taupe 
+taupe 
+dodger blue
+desert
+denim
+ebony
+ecru
+dutch white
+eerie black
+eggplant
+eggshell
+electric lime
+electric purple
+emerald
+eminence
+English lavender
+erin 
+eton blue
+fallow
+falu red
+fandango
+fawn
+fern green
+fiery rose
+field drab
+finn
+firebrick
+flame
+flirt
+flax
+floral white 
+french blue
+brench fuchsia
+french mauve
+mauve
+frostbite
+fulvous
+gainsboro
+gamboge
+glaucous
+GO green
+gold
+gold fusion
+ghost white
+gotham green
+granite grey
+granny smith apple
+Green lizard
+harlequin
+gunmetal
+hansa yellow
+harvest gold
+heat wave
+heliotrope
+hollywood cerise
+hooker's green
+hot magenta
+hunter green
+iceberg
+illuminating emerald 
+imperial red
+inchworm
+independence
+irresistable
+isabelline
+italian sky blue
+jasmine
+jazzberry jamn 
+jet
+jonquil
+june bud
+keppel
+key lime
+kobe
+kobi
+kobicha
+ksu purple
+languid lavender
+laser lemon
+liberty 
+linen
+lilac
+livid
+magnolia
+maize
+majorelle blue
+mandarin
+malachite
+marigold
+mauvelous
+mexican pink
+midnight
+mikado yellow
+mimi pink
+mindaro
+ming 
+mint
+moccasin
+mode beige
+mulberry
+mustard
+myrtle green
+mystic
+nickel
+nyanza
+ochre
+olivine
+onyx
+opal
+oxblood
+oxford blue
+OU Crimson red
+papaya whip
+parchment
+paua
+peach
+pearly purple
+permanant geranium lake
+phlox
+phthalo blue
+piggy pink
+pistachio
+pomp and power 
+popstar 
+prune
+puce
+psychedelic purple
+pumpkin
+quick silver
+quinacridone magenta
+radical red
+raisin black
+rajah
+razzmatazz
+redwood
+resolution blue
+rhythm
+rifle green
+robin egg blue
+rocket metallic
+rose
+ruber
+rubine red
+ruby
+russet
+rufous
+saffron
+sage
+seance
+secret
+selective yellow
+shadow
+shocking pink
+skobeloff
+smitten
+stil de grain yellow 
+sunglow 
+sunray
+sunset
+syracuse orange
+tan
+tart orange
+titanium yellow
+timberwolf
+tiffany blue
+thulian pink
+thistle
+tourmaline
+tomato
+tufts Blue
+trypan blue
+turtle green
+tuscan
+tuscany
+umber
+vanilla
+vegas gold
+verdigris
+volt 
+wheat
+wisteria
+xanadu
+xanthic
+xanthous
+yellow-green
+zaffre
+Zomp
+[/choose]

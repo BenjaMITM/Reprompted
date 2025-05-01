@@ -1,0 +1,15 @@
+[choose]
+blonde
+brunette
+ginger
+bald 
+shaved head
+black
+auburn
+blonde highlights
+sandy blonde
+platinum blonde
+light brown
+chestnut
+[file ./colors]-haired
+[/choose]

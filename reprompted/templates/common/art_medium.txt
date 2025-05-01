@@ -1,0 +1,40 @@
+[choose]
+photo
+hd photograph
+candid photograph
+cinematic photograph
+dramatic photograph
+hdr photograph
+RAW Photo
+B&W photograph
+Polaroid
+Kodak Disposable Camera photograph
+Action photograph
+Still life Image
+Artistic photograph
+Abstract photograph
+8K High Resolution photograph
+Macro photograph
+Time Lapse photograph
+Long Exposure photograph
+High Fashion photograph
+DSLR photograph
+Fantasy Photography
+Horror Photography
+Cinematic Still
+Pornographic Still
+Hi Key Lighting Photography
+Low Key Lighting Photograph 
+Studio Portrait
+Nature Photograph
+Automotive Photograph
+Advertisement
+Centerfold Photograph
+Artistic Interpretation
+Surreal Photograph
+Found Footage
+Documentary Photography
+3D Model
+Low Poly Model
+3D Render
+[/choose]
